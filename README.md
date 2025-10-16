@@ -13,6 +13,6 @@
 - Simple interaction with the 3D environment.
 
 **Opening Window**
-<img width="1249" height="743" alt="image" src="https://github.com/user-attachments/assets/aa687bd5-382b-44d5-8013-5a2463bc8ce9" />
 
+<img width="1206" height="642" alt="image" src="https://github.com/user-attachments/assets/59f25296-18ff-449b-b182-7943c2050891" />
 <img width="1206" height="642" alt="image" src="https://github.com/user-attachments/assets/36b484af-ef10-44c7-8f73-18e3ac46bd00" />
