@@ -1,8 +1,8 @@
-**Title: Custom Robot manipulation application**
+**Custom Robot manipulation application**
 
-**Softwares used:** Visual Studio 2022 and Fusion 360
-**Technology Stack:** C# .Net WPF Application, HelixToolkit (Module developed for WPF)
-**Requirements:** Windows 10, .Net 4.7.2
+- **Softwares used:** Visual Studio 2022 and Fusion 360
+- **Technology Stack:** C# .Net WPF Application, HelixToolkit (Module developed for WPF)
+- **Requirements:** Windows 10, .Net 4.7.2
 
 **Features:**
 - Joint angle manipulation of the robot.
