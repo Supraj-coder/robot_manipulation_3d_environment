@@ -1,0 +1,4 @@
+Joint 1 : x:0 ; y:0 ; z:3.5 (Rotate along X axis)
+Joint 2 : x:0 ; y:6 ; z:3.5 (Rotate along X axis)
+Joint 3 : x:0 ; y:10 ; z:3.5 (Rotate along X axis)
+TCP : x:0 ; y:13.75 ; z:3.5
